@@ -1,4 +1,4 @@
-## Case Técnicdo de Python | AION Solution
+## Case Técnico de Python | AION Solution
 
 Esse é o repositório contendo o case técnico de Python da AION Solution. Esse case faz parte do processo seletivo para a vaga de estágio.
 
